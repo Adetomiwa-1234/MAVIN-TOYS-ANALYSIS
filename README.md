@@ -68,5 +68,5 @@ Perform a deeper dive into why 2018 saw lower revenue than 2017 — consider fac
 ## Conclusion 
 This analysis provided a comprehensive view of Mavin Toys' sales and performance trends. It revealed clear seasonal patterns, category performance disparities, and geographic sales strength. By acting on these insights — especially around high-performing months, products, and cities — stakeholders can make data-driven decisions to increase profitability and customer satisfaction.
 
-![Dashboard](https://github.com/user-attachments/assets/de68d1b6-bb7d-4b1c-bace-0cb13538f259)
+![Dashboard](https://github.com/user-attachments/assets/de68d1b6-bb7d-4b1c-bace-0cb13538f259)">Dataset</a>
 
