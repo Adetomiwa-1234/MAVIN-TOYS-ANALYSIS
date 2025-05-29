@@ -1,7 +1,7 @@
 # MAVIN-TOYS-ANALYSIS
 I cleaned and structured the raw dataset by removing duplicates, correcting data types, and standardizing fields. Then, I used Pivot Tables to analyze key metrics like sales by region, product, and month. Calculated fields were added to derive profit margins and performance ratios for deeper business insights.
 
-##Project Objectives:
+## Project Objectives:
 The main goal of this analysis is to extract actionable insights from Mavin Toys' dataset to support informed decision-making and strategic planning. The specific objectives include:
 •	Analyze Sales Patterns
 Identify sales trends and seasonality to guide strategies during peak and off-peak periods.
