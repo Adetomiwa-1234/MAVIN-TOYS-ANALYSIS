@@ -12,3 +12,6 @@ Assess each product's contribution to sales volume and profitability to highligh
 Investigate how store location affects overall sales and profitability, helping identify high- and low-performing outlets.
 •	Build a Performance Monitoring Dashboard
 Design an interactive, updateable Excel dashboard with key visuals to track ongoing business performance and support continuous data-driven decisions.
+
+##Data Used
+- <a hre="https://docs.google.com/spreadsheets/d/1vxbZEVYkAMtqcb7Exzv-QDxUza6-b1dd/edit?usp=drive_link&ouid=112581567316939365415&rtpof=true&sd=true">Dataset</a>
